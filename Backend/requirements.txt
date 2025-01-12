@@ -1,0 +1,9 @@
+Flask
+requests
+flask-cors
+youtube-transcript-api
+langchain-groq
+langchain-core
+python-dotenv
+beautifulsoup4
+flask_sqlalchemy
